@@ -4,8 +4,8 @@ Guess The Number" is a simple console-based game where the player tries to guess
 and they score points based on their performance. If the player runs out of attempts,they have the option to purchase additional attempts using their score points.
 ## Running the Game
 1. **Copy the Program:** Copy the code in your local machine.
-2. **Compile the Program:** Open your terminal or command prompt, navigate to the directory where the GuessTheNumber.java file is located, and run **javac GuessTheNumber.java**
-3. **Run the Program:** After compiling, run **java GuessTheNumber**
+2. **Compile the Program:** Open your terminal or command prompt, navigate to the directory where the GuessTheNumber.java file is located, and run the command **'javac GuessTheNumber.java'**
+3. **Run the Program:** After compiling, run the command **'java GuessTheNumber'**
 ## How to Play
 1. **Start the Game:** Run the program, and a random number between 1 and 100 will be generated.
 2. **Guess the Number:** Enter your guesses. You will be prompted whether to guess higher or lower based on your input.
@@ -27,8 +27,8 @@ This is a simple console-based bank management system implemented in Java. It al
 5. **View Account Detail:** Users can view the details of their account, including account number, holder name, and current balance.
 ## How to Use
 1. **Copy the Program:** Copy the code in your local machine.
-2. **Compile the Program:** Open your terminal or command prompt, navigate to the directory where the BankY.java file is located, and run **javac BankY.java**
-3. **Run the Program:** After compiling, run **java BankY**
+2. **Compile the Program:** Open your terminal or command prompt, navigate to the directory where the BankY.java file is located, and run the command **'javac BankY.java'**
+3. **Run the Program:** After compiling, run the command **'java BankY'**
 4. **Follow the Menu:** The program will display a menu with options to create an account, deposit funds, withdraw funds, transfer funds, and view account details. Enter the corresponding number for the action you want to perform and follow the prompts.
 
 # Task-3: Examination System
@@ -49,8 +49,8 @@ This is a simple console-based examination system implemented in Java. It allows
 3. Users can view their scores after submitting the exam.
 ## How to Use
 1. **Copy the Program:** Copy the code in your local machine.
-2. **Compile the Program:** Open your terminal or command prompt, navigate to the directory where the Examination.java file is located, and run **javac Examination.java**
-3. **Run the Program:** After compiling, run **java Examination**
+2. **Compile the Program:** Open your terminal or command prompt, navigate to the directory where the Examination.java file is located, and run the command **'javac Examination.java'**
+3. **Run the Program:** After compiling, run the command **'java Examination'**
 4. **Follow the Prompts**: The program will prompt you to log in with your roll number, username, and password. If the credentials are correct, you can proceed with the exam. Answer the questions by selecting the correct option number.
 
 # Task-4 : Digital Library Management System
@@ -73,5 +73,5 @@ The system consists of two main modules:
 5. **User-Friendly Interface:** Designed to be intuitive for all users, regardless of technical expertise(used a free template design form Internet).
 ## How to Use
 1. **Copy the Program:** Clone the folder to your local machine and open it in NetBeans IDE.
-2. **Run the Program:** Right-click the code file and select the **Run File** option from the drop-down menu.
-3. **Note:** If you encounter any errors while running the code, add the **'mysql-connector.jar'** file to the **'lib'** folder. Right-click the lib folder, select **Add JAR/Folder** from the drop-down menu, and then try running the code again..
+2. **Run the Program:** Right-click the code file and select the **'Run File'** option from the drop-down menu.
+3. **Note:** If you encounter any errors while running the code, add the **'mysql-connector.jar'** file to the **'lib'** folder. Right-click the lib folder, select **'Add JAR/Folder'** from the drop-down menu, and then try running the code again..

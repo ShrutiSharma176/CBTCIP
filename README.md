@@ -26,6 +26,7 @@ This is a simple console-based bank management system implemented in Java. It al
 4. **Transfer Amount:** Users can transfer money from one account to another.
 5. **View Account Detail:** Users can view the details of their account, including account number, holder name, and current balance.
 ## How to Use
-1. **Compile the Program:** Open your terminal or command prompt, navigate to the directory where the BankY.java file is located, and run **javac BankY.java**
-2. **Run the Program:** After compiling, run **java BankY**
-3. **Follow the Menu:** The program will display a menu with options to create an account, deposit funds, withdraw funds, transfer funds, and view account details. Enter the corresponding number for the action you want to perform and follow the prompts.
+1. **Copy the Programm:** Copy the code in your local machine.
+2. **Compile the Program:** Open your terminal or command prompt, navigate to the directory where the BankY.java file is located, and run **javac BankY.java**
+3. **Run the Program:** After compiling, run **java BankY**
+4. **Follow the Menu:** The program will display a menu with options to create an account, deposit funds, withdraw funds, transfer funds, and view account details. Enter the corresponding number for the action you want to perform and follow the prompts.

@@ -14,3 +14,18 @@ and they score points based on their performance. If the player runs out of atte
 5. **Win Condition:** If you guess the number correctly, you retain your score for that round.
 6. **Out of Attempts:** If you run out of attempts, you have the option to buy 5 more attempts for 20 points.
 7. **Continue Playing:** After each round, you can choose to play again or exit.
+
+
+# Task-2 : Bank Management System
+## Description
+This is a simple console-based bank management system implemented in Java. It allows users to create accounts, deposit and withdraw funds, transfer money between accounts, and view account details.
+## Features
+**Create Account:** Allows users to create a new bank account with a unique account number, account holder name, and initial balance.
+**Deposit Amount:** Users can deposit money into their account.
+**Withdraw Amount:** Users can withdraw money from their account, ensuring they do not withdraw more than their available balance.
+**Transfer Amount:** Users can transfer money from one account to another.
+**View Account Detail:** Users can view the details of their account, including account number, holder name, and current balance.
+## How to Use
+1. **Compile the Program:** Open your terminal or command prompt, navigate to the directory where the BankY.java file is located, and run **javac BankY.java**
+2. **Run the Program:** After compiling, run **java BankY**
+3. **Follow the Menu:** The program will display a menu with options to create an account, deposit funds, withdraw funds, transfer funds, and view account details. Enter the corresponding number for the action you want to perform and follow the prompts.

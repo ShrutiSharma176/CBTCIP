@@ -26,7 +26,29 @@ This is a simple console-based bank management system implemented in Java. It al
 4. **Transfer Amount:** Users can transfer money from one account to another.
 5. **View Account Detail:** Users can view the details of their account, including account number, holder name, and current balance.
 ## How to Use
-1. **Copy the Programm:** Copy the code in your local machine.
+1. **Copy the Program:** Copy the code in your local machine.
 2. **Compile the Program:** Open your terminal or command prompt, navigate to the directory where the BankY.java file is located, and run **javac BankY.java**
 3. **Run the Program:** After compiling, run **java BankY**
 4. **Follow the Menu:** The program will display a menu with options to create an account, deposit funds, withdraw funds, transfer funds, and view account details. Enter the corresponding number for the action you want to perform and follow the prompts.
+
+# Examination System
+## Description
+This is a simple console-based examination system implemented in Java. It allows users to log in, answer multiple-choice questions, and get their scores. The system also features automatic submission of the exam after a set duration.
+## Features
+### User Management:
+-Users can log in with their roll number, username, and password.
+-Users' credentials are stored in a UserService class.
+-Users can update their profile and password.
+### Question Management:
+-The exam consists of multiple-choice questions.
+-Each question has a set of options and one correct answer.
+-Users can select their answers, and the system calculates the score.
+### Exam Management:
+-The exam duration is managed by a Timer class.
+-The exam is auto-submitted when the time is up.
+-Users can view their scores after submitting the exam.
+## How to Use
+1. **Copy the Program:** Copy the code in your local machine.
+2. **Compile the Program:** Open your terminal or command prompt, navigate to the directory where the Examination.java file is located, and run **javac Examination.java**
+3. **Run the Program:** After compiling, run **java Examination**
+4. **Follow the Prompts**: The program will prompt you to log in with your roll number, username, and password. If the credentials are correct, you can proceed with the exam. Answer the questions by selecting the correct option number.

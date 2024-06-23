@@ -20,11 +20,11 @@ and they score points based on their performance. If the player runs out of atte
 ## Description
 This is a simple console-based bank management system implemented in Java. It allows users to create accounts, deposit and withdraw funds, transfer money between accounts, and view account details.
 ## Features
-Line 1 **Create Account:** Allows users to create a new bank account with a unique account number, account holder name, and initial balance.
-Line 2 **Deposit Amount:** Users can deposit money into their account.
-Line 3 **Withdraw Amount:** Users can withdraw money from their account, ensuring they do not withdraw more than their available balance.
-Line 4 **Transfer Amount:** Users can transfer money from one account to another.
-Line 5 **View Account Detail:** Users can view the details of their account, including account number, holder name, and current balance.
+1. **Create Account:** Allows users to create a new bank account with a unique account number, account holder name, and initial balance.
+2. **Deposit Amount:** Users can deposit money into their account.
+3. **Withdraw Amount:** Users can withdraw money from their account, ensuring they do not withdraw more than their available balance.
+4. **Transfer Amount:** Users can transfer money from one account to another.
+5. **View Account Detail:** Users can view the details of their account, including account number, holder name, and current balance.
 ## How to Use
 1. **Compile the Program:** Open your terminal or command prompt, navigate to the directory where the BankY.java file is located, and run **javac BankY.java**
 2. **Run the Program:** After compiling, run **java BankY**

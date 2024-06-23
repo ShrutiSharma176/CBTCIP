@@ -36,17 +36,17 @@ This is a simple console-based bank management system implemented in Java. It al
 This is a simple console-based examination system implemented in Java. It allows users to log in, answer multiple-choice questions, and get their scores. The system also features automatic submission of the exam after a set duration.
 ## Features
 ### User Management:
-*Users can log in with their roll number, username, and password.
-*Users' credentials are stored in a UserService class.
-*Users can update their profile and password.
+1. Users can log in with their roll number, username, and password.
+2. Users' credentials are stored in a UserService class.
+3. Users can update their profile and password.
 ### Question Management:
-*The exam consists of multiple-choice questions.
-*Each question has a set of options and one correct answer.
-*Users can select their answers, and the system calculates the score.
+1. The exam consists of multiple-choice questions.
+2. Each question has a set of options and one correct answer.
+3. Users can select their answers, and the system calculates the score.
 ### Exam Management:
-*The exam duration is managed by a Timer class.
-*The exam is auto-submitted when the time is up.
-*Users can view their scores after submitting the exam.
+1. The exam duration is managed by a Timer class.
+2. The exam is auto-submitted when the time is up.
+3. Users can view their scores after submitting the exam.
 ## How to Use
 1. **Copy the Program:** Copy the code in your local machine.
 2. **Compile the Program:** Open your terminal or command prompt, navigate to the directory where the Examination.java file is located, and run **javac Examination.java**
